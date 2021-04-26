@@ -1,0 +1,15 @@
+/*
+See LICENSE folder for this sample’s licensing information.
+
+Abstract:
+Localized launch screen strings for English.
+*/
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "OoO-Bf-fh6"; */
+"OoO-Bf-fh6.title" = "Master";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "j7F-tA-HOy"; */
+"j7F-tA-HOy.title" = "Master";
+
+/* Class = "UINavigationItem"; title = "Master"; ObjectID = "oXo-Rl-m39"; */
+"oXo-Rl-m39.title" = "Master";

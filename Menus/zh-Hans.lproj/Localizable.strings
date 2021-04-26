@@ -1,0 +1,59 @@
+/*
+See LICENSE folder for this sample’s licensing information.
+
+Abstract:
+Localized strings for this sample in Chinese (Simplified).
+*/
+
+"NewCommandTitle" = "新建";
+"OpenTitle" = "打开";
+
+"CitiesTitle" = "城市";
+"StyleTitle" = "样式";
+"NavigationTitle" = "导航";
+"ToolsTitle" = "工具";
+
+"DateItemTitle" = "日期项目";
+"TextItemTitle" = "文本项目";
+
+"CopyTitle" = "复制";
+"ShareTitle" = "分享";
+
+"RenameMessage" = "重命名详情页单元";
+"RenameTitle" = "重命名";
+"CancelTitle" = "取消";
+
+"ResponsiveLabelMac" = "点击并且长按来影响主列表视图";
+"ResponsiveLabeliOS" = "点击并且长按来影响主列表视图";
+
+"Command_N_DiscoveryTitle" = "添加一行日期元件";
+
+/* Cities menu titles */
+"cupertino" = "库比蒂诺";
+"sanFrancisco" = "旧金山";
+"sanJose" = "圣何塞";
+"paris" = "巴黎";
+"rome" = "罗马";
+
+/* Towns menu titles */
+"bigOakFlat" = "大橡树平";
+"groveland" = "格罗夫兰";
+"sonora" = "索诺拉";
+
+/* Tools menu titles */
+"lasso" = "套索";
+"pencil" = "铅笔";
+"scissors" = "剪刀";
+"rotate" = "旋转";
+
+/* Font style titles */
+"plain" = "普通";
+"bold" = "加粗";
+"italic" = "斜体";
+"underline" = "下划线";
+
+/* Arrow key menu titles */
+"rightArrow" = "右键";
+"leftArrow" = "左键";
+"upArrow" = "上键";
+"downArrow" = "下键";

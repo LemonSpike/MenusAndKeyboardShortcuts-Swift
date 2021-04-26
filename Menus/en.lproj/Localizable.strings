@@ -1,0 +1,59 @@
+/*
+See LICENSE folder for this sample’s licensing information.
+
+Abstract:
+Localized strings for this sample in English.
+*/
+
+"NewCommandTitle" = "New";
+"OpenTitle" = "Open";
+
+"CitiesTitle" = "Cities";
+"StyleTitle" = "Style";
+"NavigationTitle" = "Navigation";
+"ToolsTitle" = "Tools";
+
+"DateItemTitle" = "Date Item";
+"TextItemTitle" = "Text Item";
+
+"CopyTitle" = "Copy";
+"ShareTitle" = "Share";
+
+"RenameMessage" = "Rename the detail view's item.";
+"RenameTitle" = "Rename";
+"CancelTitle" = "Cancel";
+
+"ResponsiveLabelMac" = "Click and hold here\nto affect the master table view.";
+"ResponsiveLabeliOS" = "Tap and hold here\nto affect the master table view.";
+
+"Command_N_DiscoveryTitle" = "Add New Row with Date";
+
+/* Cities menu titles */
+"cupertino" = "Cupertino";
+"sanFrancisco" = "San Francisco";
+"sanJose" = "San Jose";
+"paris" = "Paris";
+"rome" = "Rome";
+
+/* Towns menu titles */
+"bigOakFlat" = "Big Oak Flat";
+"groveland" = "Groveland";
+"sonora" = "Sonora";
+
+/* Tools menu titles */
+"lasso" = "Lasso";
+"pencil" = "Pencil";
+"scissors" = "Scissors";
+"rotate" = "Rotate";
+
+/* Font style titles */
+"plain" = "Plain";
+"bold" = "Bold";
+"italic" = "Italic";
+"underline" = "Underline";
+
+/* Arrow key menu titles */
+"rightArrow" = "Right";
+"leftArrow" = "Left";
+"upArrow" = "Up";
+"downArrow" = "Down";
